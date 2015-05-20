@@ -9,3 +9,4 @@ except ZeroDivisionError, e:
 finally:
 	print 'finally'
 print 'END'
+Creating a new branch is quick.
